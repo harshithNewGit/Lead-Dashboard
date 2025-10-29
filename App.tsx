@@ -111,7 +111,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-brand-primary text-brand-text p-4 sm:p-6 lg:p-8">
       <header className="mb-8">
-        <h1 className="text-3xl font-bold text-white">CRM Dashboard</h1>
+        <h1 className="text-3xl font-bold text-white">Lead Generation Dashboard</h1>
         <p className="text-brand-text-secondary">Welcome back, manage your leads efficiently.</p>
       </header>
       <main className="grid grid-cols-1 lg:grid-cols-3 gap-6">
